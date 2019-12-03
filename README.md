@@ -1,2 +1,2 @@
-# ss_contaminacion
-Este repositorio es para trabajar sobre el proyecto de contaminación para mi servicio social. 
+# Air Quality Research
+I will be using this repository to publish and update a project I'll be developing about air quality and pollution in my hometown.
