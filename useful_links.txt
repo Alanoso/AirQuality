@@ -1,0 +1,3 @@
+----------------
+Set up a virtual linux enviroment: https://www.brianlinkletter.com/installing-debian-linux-in-a-virtualbox-virtual-machine/
+----------------
